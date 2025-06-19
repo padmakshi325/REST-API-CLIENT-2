@@ -55,3 +55,7 @@ java -cp .;json-20210307.jar ex2
 Benefits & Learning Outcomes:
 This project not only strengthens understanding of Java fundamentals like input/output and exception handling but also introduces concepts such as working with HTTP connections, handling third-party libraries, and parsing JSON in Java. It simulates real-world application development where programs must interact with external APIs and dynamically process the results. Furthermore, by logging the output to a file, it models how data persistence can be added to Java applications.
 The Weather App is ideal for students and developers seeking practical exposure to integrating Java with real-time data services. It reinforces concepts in network programming, modular code organization, and clean user interaction, making it a valuable foundational project for Java-based software development.
+
+#OUTPUT :
+
+![Image](https://github.com/user-attachments/assets/f941606b-c605-4639-9f5f-d834f0ad0054)
