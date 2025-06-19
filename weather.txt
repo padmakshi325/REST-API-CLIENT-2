@@ -1,0 +1,7 @@
+----- Weather Report for mumbai -----
+Temperature: 27°C
+Feels Like: 31°C
+Weather: Light rain, rain shower
+Humidity: 89%
+Wind Speed: 37 km/h
+-------------------------------------------
